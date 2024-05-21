@@ -1,0 +1,22 @@
+.VendingMachine-image{
+    width: 90%;
+    height: 90%;
+    
+}
+
+.VendingMachine-links{
+    position: absolute;
+    left:0px;
+    top:0px;
+    z-index: 2;
+    width: 200px;
+    background-color:grey ;
+    color: white;
+}
+
+
+.VendingMachine{
+    z-index: 0;
+    display: inline-block
+}
+
